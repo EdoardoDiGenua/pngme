@@ -12,7 +12,7 @@ This project is based on the excellent book [PNGme: An Intermediate Rust Project
 - Decode and read custom ancillary chunks
 - Remove specific chunks
 - Print all custom chunks
-- 
+
 ## 🚀 Usage
 
 This project uses `cargo`:
