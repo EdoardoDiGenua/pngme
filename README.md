@@ -22,7 +22,7 @@ This project uses `cargo`:
 cargo build
 
 # Run with sample arguments
-cargo run -- encode <PNG_PATH> <CHUNK_TYPE> <MESSAGE> <OUTPUT_PATH>
+cargo run -- encode <PNG_PATH> <CHUNK_TYPE> <MESSAGE>
 cargo run -- decode <PNG_PATH> <CHUNK_TYPE>
 cargo run -- remove <PNG_PATH> <CHUNK_TYPE>
 cargo run -- print <PNG_PATH>
